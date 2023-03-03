@@ -100,7 +100,10 @@ function App() {
         <Route path="/contact" element={<Contact />}></Route>
       </Routes>
       <footer>
-        <Link to="/"><h2>Home @ That's How I Feel</h2></Link>
+        <Link to="/"
+          onClick={() => {
+            window.scrollTo(0, 0);
+          }}><h2>Home @ That's How I Feel</h2></Link>
       </footer>
     </div>
 

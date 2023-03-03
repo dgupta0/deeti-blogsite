@@ -27,7 +27,10 @@ export default function Home() {
             </Link>
             <h1 className='recent-posts-heading'>Recent Posts</h1>
             <div className='posts'>
-                <Link to="/blog/article1">
+                <Link to="/blog/article1"
+                    onClick={() => {
+                        window.scrollTo(0, 0);
+                    }}>
                     <div className='blog-items art1'>
                         <img src={artImg1}
                             alt="Photo by micheile dot com on Unsplash">
@@ -41,7 +44,10 @@ export default function Home() {
                         </div>
                     </div>
                 </Link>
-                <Link to="/blog/article2">
+                <Link to="/blog/article2"
+                    onClick={() => {
+                        window.scrollTo(0, 0);
+                    }}>
                     <div className='blog-items art2'>
                         <img src={artImg2} alt="Image by vectorjuice on Freepik"></img>
                         <div className='article-description'>
@@ -54,7 +60,10 @@ export default function Home() {
                         </div>
                     </div>
                 </Link>
-                <Link to="/blog/article3">
+                <Link to="/blog/article3"
+                    onClick={() => {
+                        window.scrollTo(0, 0);
+                    }}>
                     <div className='blog-items art3'>
                         <img src={artImg3} alt="Photo by Gaelle Marcel on Unsplash"></img>
                         <div className='article-description'>
