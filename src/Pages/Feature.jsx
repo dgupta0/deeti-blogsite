@@ -30,9 +30,30 @@ export default function Feature() {
                     too because rarely we learn anything from it. But of course we can debate
                     about it too.
                 </p>
-                <p>Mentioning tutorial hell is important before I can explain what Interactive Interface is and why it is an important factor while deciding a platform or coursework to learn coding. To put  simply an interactive interface is an environment where one can easily play with code inside the platform and render the code there too. If you are an absolute beginner, open the first certificate of freeCodeCamp and start its first course.  This is important because it forces us to constantly code and quickly display the result of our written code.
-                    With interactive interface, the feedback loop is fast. When the code doesn’t render as it was supposed to, we understand that we have made an error. We can figure it out, run the code and keep doing that until we have what we need on the screen. In the case of freeCodeCamp the test will fail, so you know for sure there’s an error.
-                    While setting up the environment on our computer isn’t hard, but an interactive interface inside the coursework ensures that as a beginner we get the necessary practice. It’s so easy to feel with just watching tutorials that I know it and I can implement it and move on with the rest of the lectures, but the interactive interface pushes us to simultaneously practice what we have learned. It breaks the barrier between what we know and what we can actually do, which from my limited experience is  extremely crucial to feel comfortable and confident in coding. </p>
+                <p>Mentioning tutorial hell is important before I can explain what Interactive Interface
+                    is and why it is an important factor while deciding a platform or
+                    coursework to learn coding. To put  simply an interactive interface
+                    is an environment where one can easily play with code inside the platform
+                    and render the code there too. If you are an absolute beginner,
+                    open the first certificate of freeCodeCamp and take a glimpse of their challenges.  </p>
+                <p>Interactive interface not only forces us to constantly code but also simultaneously display the result
+                    of our written code.
+                    The feedback loop is fast here. When the code doesn’t render as it was supposed to,
+                    we understand that we have made an error. We will try to resolve the error,
+                    run the code again and keep doing that until we have what we need on the screen.
+                    In the case of freeCodeCamp if error is made then the tests of the
+                    challenge will fail and we know for sure that we will have to modify the code to
+                    pass all the tests.</p>
+                <p>While setting up the development environment on our local computer isn’t hard,
+                    but an interactive interface inside the coursework
+                    ensures that as a beginner we get into the habit of writing code.
+                    While watching tutorials, it's easy to feel
+                    that I know it and I can implement it and move on with the
+                    rest of the lectures, but the interactive interface
+                    really pushes us to simultaneously practice what we have learned.
+                    It breaks the barrier between what we know and what we can actually do,
+                    which from my limited experience is extremely crucial to feel
+                    comfortable and confident in coding. </p>
 
                 <h3>2. Independent Projects:</h3>
                 <p>From my experience it is very easy to get into the
