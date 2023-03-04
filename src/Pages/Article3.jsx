@@ -4,7 +4,7 @@ import artImg3 from "../assets/article3.jpg"
 export default function Article3() {
     return (
         <div className="article">
-            <h1>My programming journey - a recap
+            <h1>My programming journey - a ramble
             </h1>
             <h2>A series of constant learnings, failures and I can't believe I am saying this but joy too.
             </h2>
