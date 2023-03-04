@@ -21,7 +21,7 @@ export default function About() {
                 a mature learner from non science background who is driven to learn programming and get better at it.
             </h4>
             <h4>
-                I like to relax and be lazy on weekends. This could means sitting on the bed and
+                I like to relax and be lazy on weekends. This could mean sitting on the bed and
                 do whatever I like. It could be working on a project, watching youtube videos or movies. On weekdays,
                 I like to follow routine, eat healthy and do my workouts.
             </h4>
