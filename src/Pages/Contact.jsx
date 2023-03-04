@@ -16,7 +16,7 @@ export default function Contact() {
 
                 </div>
             </div>
-            <h2> You can email me at <a className="links" href="mailto:deetigupta8@gmail.com">deetigupta8@gmail.com</a> to
+            <h2 className='footer-issue-se'> You can email me at <a className="links" href="mailto:deetigupta8@gmail.com">deetigupta8@gmail.com</a> to
                 give feedback and suggestions. </h2>
 
         </main>

@@ -21,11 +21,13 @@ footer {
     background-color: rgb(48, 49, 52);
     width: 100vw;
     color: whitesmoke;
+    height: 80px;
 
 }
 
 footer h2 {
     text-align: center;
+    font-size: 1.75rem;
 }
 
 .title {
@@ -334,8 +336,9 @@ li a:focus {
 
 /* contact page */
 .contact {
-    padding-top: 2rem;
-    ;
+    padding: 2rem 1rem 1rem 0;
+
+
 }
 
 .contact h1 {
@@ -427,6 +430,10 @@ li a:focus {
         width: 60px;
     }
 
+}
+
+.footer-issue-se {
+    padding-bottom: 40px;
 }
 
 @media(min-width: 750px) {
