@@ -22,7 +22,9 @@ export default function Article3() {
                     inspired me to pursue computer programming as a career.
                     This pursuant had been an on and off journey. I usually dont
                     count this time but I started programming  in 2017 with some
-                    python book my husband suggested.  I also started the python for everybody specialization course by Charles Russell Severance on Coursera. But I think in a month, the interest eroded and I quit both of them. </p>
+                    python book my husband suggested.  I also started the python
+                    for everybody specialization course by Charles Russell Severance on Coursera.
+                    But I think in a month, the interest eroded and I quit both of them. </p>
 
                 <p>
                     In 2019, I left a job in online marketing and advertising and again started pursuing computer
@@ -88,10 +90,9 @@ export default function Article3() {
                     those
                     goals. So, it could be I was just enjoying doing something good.
                 </p>
-                <p>Of Course all this time spent will never contribute towards an actual job, but what I had was a
-                    structure
-                    or
-                    routine which I unknowingly designed.
+                <p>Of Course all that time spent never contributed towards an actual job, but at that time what I had was a
+                    structure or
+                    routine to follow everyday.
                 </p>
                 <p>I think somewhere in the beginning of 2022, I started having doubts again about my direction. I had
                     already
