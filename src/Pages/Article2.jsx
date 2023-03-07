@@ -42,8 +42,8 @@ export default function Article2() {
                     only solved twenty five challenges,  at least now, I am comfortable
                     with easy array and string problems. </p>
                 <p> think the point
-                    I am trying to make here is when I completed the FCC second certification, it took away my fear, inhibitions I had for algorithmic challenges.I
-                    Now, I feel I am somewhere between a beginner to intermediate level in data structures and algorithms.</p>
+                    I am trying to make here is when I completed the FCC second certification, it took away my fear, inhibitions I had for algorithmic challenges.
+                    More importantly it made me unstuck. Now, I feel I am no more at point start in data structures and algorithms. If not more than definitely one step ahead, which personally means a lot. </p>
                 <p>I know I still have a lot of milestones to cover during this programming journey, but I can honestly say that this certificate is definitely a big step in that direction for me.
                 </p>
                 <p>Thanks freeCodeCamp
