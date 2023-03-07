@@ -34,6 +34,16 @@ export default function Article2() {
                 <p>
                     These challenges were hard. They were rattling. Each challenge made me feel I couldn't do it. Programming is not for me. But completing one challenge leads to second and to third and then rest feels like a domino effect.
                 </p>
+                <p>This course was also useful in helping me getting started with
+                    leetcode problems. I find this a big victory because
+                    I knew where I was a year ago and how difficult it
+                    was for me to even patiently read the problem description.
+                    Though my leetcode journey is slower than a tortoise and I have
+                    only solved twenty five challenges,  at least now, I am comfortable
+                    with easy array and string problems. </p>
+                <p> think the point
+                    I am trying to make here is when I completed the FCC second certification, it took away my fear, inhibitions I had for algorithmic challenges.I
+                    Now, I feel I am somewhere between a beginner to intermediate level in data structures and algorithms.</p>
                 <p>I know I still have a lot of milestones to cover during this programming journey, but I can honestly say that this certificate is definitely a big step in that direction for me.
                 </p>
                 <p>Thanks freeCodeCamp
