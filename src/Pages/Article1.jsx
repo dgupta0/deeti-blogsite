@@ -6,7 +6,7 @@ import artImg1 from "../assets/article1.jpg"
 export default function Article1() {
     return (
         <div className="article">
-            <h1>It’s Absolutely okay if the reason to start programming is good pay </h1>
+            <h1>It's Absolutely okay if the reason to start programming is good pay </h1>
             <h2>Just make sure that it is not the only driving force otherwise you might get stuck and quit eventually.
             </h2>
             <img className="feature-image" src={artImg1}
