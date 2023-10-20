@@ -7,7 +7,7 @@ export default function Article1() {
     return (
         <div className="article">
             <h1>It’s Absolutely okay if the reason to start programming is good pay </h1>
-            <h2>Just make sure that it is not the only driving force to  pursue the journey otherwise you might get stuck and quit eventually.
+            <h2>Just make sure that it is not the only driving force otherwise you might get stuck and quit eventually.
             </h2>
             <img className="feature-image" src={artImg1}
                 alt="Photo by micheile dot com on Unsplash">
@@ -17,7 +17,7 @@ export default function Article1() {
             <div className="content-body">
                 <p>I personally believe that there’s no problem in wanting to become a developer for high pay. Career is an important undertaking, wrong ones can frustrate you for life and the right ones make that same life a glide. Desiring for financial security and a better lifestyle out of a career is absolutely fine. If we are putting effort and heart into a path or career then wanting financial progress is such a strong motivation for continuing.
                 </p>
-                <p>The problem is when financial success is the  only motivation to pursue anything is quitting becomes easy when times become harder. I say that because I have done that. I started programming in 2017 because my husband earned really good as a software engineer and I wanted to be one too. I tried a couple of books to start coding but soon I lost interest and called it quits. I again tried to learn coding in 2019, but lack of good meaningful reasons caught up and I quit the journey again.</p>
+                <p>The problem is when financial success is the  only motivation to pursue anything quitting becomes easy when times become harder. I say that because I have done that. I started programming in 2017 because my husband earned really good as a software engineer and I wanted to be one too. I tried a couple of books to start coding but soon I lost interest and called it quits. I again tried to learn coding in 2019, but lack of good meaningful reasons caught up and I quit the journey again.</p>
                 <p>This whole experience made me realize that if I want to flourish and really become good at what I want to do then I have to find different kinds of motivation. You may think that I am referring to passion but no, I am not. Lately, the word started to have a negative ring and when I went to Merriam Webster to understand what passion means I found one of the fist meaning for the word is-
                 </p>
                 <h2 className='qoutes'>“the sufferings of Christ between the night of the Last Supper and his death. ”
